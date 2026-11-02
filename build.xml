@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Etapa6_Sistema_Ocorrencias" default="default" basedir=".">
+    <description>Projeto refatorado - Etapa 6 PI</description>
+    <import file="nbproject/build-impl.xml"/>
+</project>
