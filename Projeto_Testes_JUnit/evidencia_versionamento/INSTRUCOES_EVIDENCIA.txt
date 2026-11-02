@@ -1,0 +1,12 @@
+EVIDÊNCIA DE VERSIONAMENTO — ETAPA 7
+
+Esta pasta contém instruções, não uma captura fictícia. Depois de publicar a pasta
+Projeto_Testes_JUnit no repositório GitHub da Etapa 6:
+
+1. Abra https://github.com/guxta-hl/Sistema-Ocorrencias-Etapa6
+2. Confirme que a pasta Projeto_Testes_JUnit aparece na árvore de arquivos.
+3. Abra a aba Commits e confirme o commit que adicionou os testes.
+4. Faça uma captura de tela mostrando a árvore de arquivos ou o commit.
+5. Salve a captura nesta pasta com o nome evidencia_github_etapa7.png.
+
+A captura precisa ser obtida na sua própria página do GitHub após o envio real dos arquivos.
